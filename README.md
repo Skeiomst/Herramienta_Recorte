@@ -4,6 +4,10 @@ Una aplicación visual que permite cargar una imagen, superponer múltiples figu
 
 ---
 
+## Instalar directamente
+
+https://github.com/Skeiomst/Herramienta_Recorte/releases/download/v1.0.0/HerramientaRecorte.exe
+
 ## Funcionalidades principales
 
 - Cargar imágenes (PNG, JPG, JPEG)
