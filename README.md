@@ -6,7 +6,7 @@ Una aplicación visual que permite cargar una imagen, superponer múltiples figu
 
 ## Instalar directamente
 
-https://github.com/Skeiomst/Herramienta_Recorte/releases/download/v1.0.0/HerramientaRecorte.exe
+https://github.com/Skeiomst/Herramienta_Recorte/releases/download/v1.1.0/Herramienta_Recorte.exe
 
 ## Funcionalidades principales
 
@@ -18,12 +18,24 @@ https://github.com/Skeiomst/Herramienta_Recorte/releases/download/v1.0.0/Herrami
 - Zoom in/out con rueda del ratón
 - Zoom centrado en el cursor
 - Botón "Resetear Zoom"
+- Movimiento de figura seleciconada con teclas de flecha
 - Guardar recortes individualmente
 - Los recortes se guardan en una carpeta con el nombre de la imagen
 
+## Instrucciones de uso
+
+- Seleccionar imagen a recortar
+- Con `clic derecho` se colocan las figuras del tamaño establecido en la parte superior.
+- Con `clic izquierdo` se selecciona una figura ya puesta (se le da foco).
+- Manteniendo presionado el `clic izquierdo`, se arrastra la figura seleccionada.
+- Con `flechas` se puede arrastrar la figura seleccionada.
+- Para hacer zoom, mantener presionado `Ctrl + rueda`.
+- Se puede desplazar usando `rueda` (vertical) o `Alt + rueda` (horizontal).
+- El botón de *Resetear Zoom*, devuelve el zoom de la imagen a su estado original.
+- El botón de *Guardar Recortes*, guardará en formato .jpg, los recortes creados por las figuras establecidas anteriormente.
 ---
 
-## Cómo ejecutar el programa
+## Cómo ejecutar el programa mediante código fuente
 
 ### Requisitos
 
